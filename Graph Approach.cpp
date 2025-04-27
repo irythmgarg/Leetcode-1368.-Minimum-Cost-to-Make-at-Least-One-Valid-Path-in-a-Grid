@@ -1,4 +1,4 @@
-// Author: [Your Name]
+// Author: [Ridham Garg]
 // Problem: Minimum Cost to Make at Least One Valid Path in a Grid
 // Approach: Dijkstra's Algorithm (Priority Queue) for finding minimum cost path
 
