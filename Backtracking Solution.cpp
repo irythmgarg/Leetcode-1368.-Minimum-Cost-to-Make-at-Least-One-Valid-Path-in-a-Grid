@@ -1,4 +1,4 @@
-// Author: [Your Name]
+// Author: [Ridham Garg]
 // Problem: Minimum Cost to Make at Least One Valid Path in a Grid
 // Approach: DFS with Cost Calculation
 
